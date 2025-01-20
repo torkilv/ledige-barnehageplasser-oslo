@@ -1,1 +1,6 @@
+__pycache__/
+*.pyc
+.env
 .venv/
+nohup.out
+last_check.json
