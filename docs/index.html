@@ -145,7 +145,9 @@
         // Load preferences on page load
         loadPreferences();
 
-        // Fetch and display current data
+        // Add this at the top of the script section
+        let lastKnownSpots = {};
+
         async function fetchCurrentData() {
             try {
                 const response = await fetch('data.json');
@@ -173,24 +175,32 @@
                 }
                 spotsDisplay.innerHTML = html;
 
-                // Check if we have notifications permission
+                // Check for new spots and send notifications
                 if (Notification.permission === 'granted') {
-                    const preferences = JSON.parse(localStorage.getItem('preferences') || '{"districts":[],"ages":["0-3"]}');
-                    
-                    // Check for matches in selected districts
+                    const newSpots = {};
                     for (const [district, info] of Object.entries(data.spots)) {
-                        if (preferences.districts.includes(district)) {
-                            const notification = new Notification('New Kindergarten Spots Available', {
-                                body: `New spots available in ${district}`,
-                                icon: '/favicon.ico'
-                            });
-                            
-                            notification.onclick = function() {
-                                window.open('https://www.oslo.kommune.no/barnehage/ledige-barnehageplasser/');
-                            };
+                        if (preferences.districts.includes(district) && 
+                            (!lastKnownSpots[district] || 
+                             JSON.stringify(lastKnownSpots[district]) !== JSON.stringify(info))) {
+                            newSpots[district] = info;
                         }
                     }
+                    
+                    // Only notify if there are new spots
+                    if (Object.keys(newSpots).length > 0) {
+                        const notification = new Notification('New Kindergarten Spots Available', {
+                            body: `New spots in: ${Object.keys(newSpots).join(', ')}`,
+                            icon: '/favicon.ico'
+                        });
+                        
+                        notification.onclick = function() {
+                            window.open('https://www.oslo.kommune.no/barnehage/ledige-barnehageplasser/');
+                        };
+                    }
                 }
+                
+                // Update last known state
+                lastKnownSpots = data.spots;
                 
                 // Update last check time
                 const lastUpdate = new Date(data.lastUpdate);
