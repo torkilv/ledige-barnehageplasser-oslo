@@ -12,10 +12,12 @@
             padding: 20px;
         }
         .districts {
+            margin: 20px 0;
+        }
+        .districts-grid {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 10px;
-            margin: 20px 0;
         }
         .age-groups {
             margin: 20px 0;
@@ -62,7 +64,7 @@
 
     <div class="districts">
         <h3>Select Districts</h3>
-        <div id="districtsList"></div>
+        <div id="districtsList" class="districts-grid"></div>
     </div>
 
     <button id="enableNotifications">Enable Notifications</button>
