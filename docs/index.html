@@ -171,14 +171,35 @@
                 let html = '<h3>Available Spots</h3>';
                 for (const [district, info] of Object.entries(data.spots)) {
                     if (preferences.districts.includes(district)) {
-                        html += `
-                            <div class="district-spots">
-                                <h4>${district}</h4>
-                                <ul>
-                                    ${info.available_spots.map(spot => `<li>${spot}</li>`).join('')}
-                                </ul>
-                            </div>
-                        `;
+                        const filteredSpots = info.available_spots.filter(spot => {
+                            const spotText = spot.toLowerCase();
+                            return preferences.ages.some(age => {
+                                switch(age) {
+                                    case '0-3':
+                                        return spotText.includes('0-3') || 
+                                               spotText.includes('1-3') || 
+                                               spotText.includes('under 3') || 
+                                               spotText.includes('småbarn');
+                                    case '3-6':
+                                        return spotText.includes('3-6') || 
+                                               spotText.includes('over 3') || 
+                                               spotText.includes('storbarn');
+                                    default:
+                                        return false;
+                                }
+                            });
+                        });
+
+                        if (filteredSpots.length > 0) {
+                            html += `
+                                <div class="district-spots">
+                                    <h4>${district}</h4>
+                                    <ul>
+                                        ${filteredSpots.map(spot => `<li>${spot}</li>`).join('')}
+                                    </ul>
+                                </div>
+                            `;
+                        }
                     }
                 }
                 spotsDisplay.innerHTML = html;
