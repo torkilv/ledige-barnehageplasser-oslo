@@ -13,7 +13,7 @@
         }
         .districts {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            grid-template-columns: repeat(3, 1fr);
             gap: 10px;
             margin: 20px 0;
         }
@@ -39,6 +39,11 @@
             padding: 10px;
             background-color: #f8f9fa;
             border-radius: 4px;
+        }
+        .district-checkbox {
+            display: block;
+            margin: 5px 0;
+            white-space: nowrap;
         }
     </style>
 </head>
@@ -76,6 +81,7 @@
         const districtsList = document.getElementById('districtsList');
         districts.forEach(district => {
             const label = document.createElement('label');
+            label.className = 'district-checkbox';
             const checkbox = document.createElement('input');
             checkbox.type = 'checkbox';
             checkbox.name = 'district';
@@ -83,7 +89,6 @@
             label.appendChild(checkbox);
             label.appendChild(document.createTextNode(` ${district}`));
             districtsList.appendChild(label);
-            districtsList.appendChild(document.createElement('br'));
         });
 
         // Handle notifications
