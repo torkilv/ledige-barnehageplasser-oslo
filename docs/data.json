@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "2025-01-22T09:33:04.580965",
+  "lastUpdate": "2025-01-22T10:02:52.782998",
   "spots": {
+    "Frogner": {
+      "available_spots": [
+        "Bygården barnehage:1 plass for barn over 3 år, 3 plasser for barn under 3 år, ledig i februar"
+      ]
+    },
     "Gamle Oslo": {
       "available_spots": [
         "Sigurdsgate familiebarnehage: 1 plass for barn under 3 år fra januar"
