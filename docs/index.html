@@ -181,9 +181,10 @@
                                                spotText.includes('under 3') || 
                                                spotText.includes('småbarn');
                                     case '3-6':
-                                        return spotText.includes('3-6') || 
+                                        return spotText.includes('6 år') || 
                                                spotText.includes('over 3') || 
-                                               spotText.includes('storbarn');
+                                               spotText.includes('storbarn') ||
+                                               spotText.includes('storebarn');
                                     default:
                                         return false;
                                 }
