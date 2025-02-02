@@ -1,31 +1,4 @@
 {
-  "lastUpdate": "2025-02-02T18:35:43.342072",
-  "spots": {
-    "Alna": {
-      "available_spots": [
-        "Karlstua barnehage: 1 plass under 3 år og 1 plass over 3 år, ledig fra februar"
-      ]
-    },
-    "Gamle Oslo": {
-      "available_spots": [
-        "Kampen barnehage (i midlertidige lokaler i Kværnerdalen barnehage pga rehabilitering): 2 plasser for barn under 3 år, ledig fra februar"
-      ]
-    },
-    "Nordre Aker": {
-      "available_spots": [
-        "Amigos Småen familiebarnehage: 2 småbarnsplasser, ledig fra januar",
-        "Maridalen barnehage: 1 storebarnsplass og 1 småbarnsplass, ledig fra januar"
-      ]
-    },
-    "Stovner": {
-      "available_spots": [
-        "Vestlikollen barnehage: 1 ledige plasser 0-3 år, 1 ledig plass 3-6 år"
-      ]
-    },
-    "Søndre Nordstrand": {
-      "available_spots": [
-        "Åstun barnehage 2 ledige plasser for barn 0-3 år fra d.d"
-      ]
-    }
-  }
+  "lastUpdate": "2025-02-02T19:02:56.539009",
+  "spots": {}
 }
