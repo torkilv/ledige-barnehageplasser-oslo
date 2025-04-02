@@ -1,4 +1,10 @@
 {
-  "lastUpdate": "2025-04-02T07:03:27.212547",
-  "spots": {}
+  "lastUpdate": "2025-04-02T07:33:07.306105",
+  "spots": {
+    "Søndre Nordstrand": {
+      "available_spots": [
+        "Sllime gård barnehage: 1 ledig plass for barn 0-3 år, fra mai"
+      ]
+    }
+  }
 }
