@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-15T11:32:42.335055",
+  "lastUpdate": "2025-05-15T12:05:09.248902",
   "spots": {
     "Frogner": {
       "available_spots": [
@@ -9,6 +9,12 @@
     "Grünerløkka": {
       "available_spots": [
         "Gaia barnehage: 3 ledige plasser for barn under 3 år fra august/september"
+      ]
+    },
+    "Ullern": {
+      "available_spots": [
+        "Hakkebakkeskogen Dr. Rustadvei: ledige plasser til barn 1-3 år fra august",
+        "Hakkebakkeskogen Ullernveien: ledige plasser til barn 1-3 år fra august"
       ]
     }
   }
