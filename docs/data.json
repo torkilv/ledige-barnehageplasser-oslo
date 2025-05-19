@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-05-19T06:04:50.708257",
+  "lastUpdate": "2025-05-19T06:41:04.511420",
   "spots": {
     "Frogner": {
       "available_spots": [
@@ -9,6 +9,11 @@
     "Grünerløkka": {
       "available_spots": [
         "Gaia barnehage: 3 ledige plasser for barn under 3 år fra august/september"
+      ]
+    },
+    "Sagene": {
+      "available_spots": [
+        "Lykketrollet familiebarnehage: Ledige plasser fra august for barn i alderen 0-3 år, 7 ledige i Vogtsgate 32 og 1 ledig i Bentsegata 6"
       ]
     },
     "Ullern": {
