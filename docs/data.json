@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "2025-05-21T08:04:16.427789",
+  "lastUpdate": "2025-05-21T08:38:40.677676",
   "spots": {
     "Frogner": {
       "available_spots": [
         "Bygården barnehage: 1 plass over 3 år, ledig august. 1 plass ledig under 3 år, ledig nå."
+      ]
+    },
+    "Grorud": {
+      "available_spots": [
+        "Hakkebakkeskogen familiebarnehage: 3 ledige plasser for barn under 3 år fra august"
       ]
     },
     "Grünerløkka": {
