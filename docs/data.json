@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-03T12:05:20.671967",
+  "lastUpdate": "2025-06-03T12:44:51.093474",
   "spots": {
     "Bjerke": {
       "available_spots": [
@@ -19,6 +19,12 @@
     "Grorud": {
       "available_spots": [
         "Hakkebakkeskogen familiebarnehage: 3 ledige plasser for barn under 3 år fra august"
+      ]
+    },
+    "Grünerløkka": {
+      "available_spots": [
+        "Lykketrollet familiebarnehage - Frydens gate: 2 ledige plasser for barn under 3 år fra august",
+        "Lykketrollet familiebarnehage - Sverdrups gate: 3 ledige plasser for barn under 3 år fra august"
       ]
     },
     "Sagene": {
