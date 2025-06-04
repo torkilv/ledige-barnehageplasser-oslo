@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-04T09:03:32.052540",
+  "lastUpdate": "2025-06-04T09:35:51.284855",
   "spots": {
     "Bjerke": {
       "available_spots": [
@@ -25,6 +25,12 @@
       "available_spots": [
         "Lykketrollet familiebarnehage - Frydens gate: 2 ledige plasser for barn under 3 år fra august",
         "Lykketrollet familiebarnehage - Sverdrups gate: 3 ledige plasser for barn under 3 år fra august"
+      ]
+    },
+    "Nordre Aker": {
+      "available_spots": [
+        "Gaustadsnippen barnehage: 2 ledige storebarnsplasser og 5 ledige småbarnsplasser. Ledig fra august",
+        "Rektorhaugen Kanvas barnehage: 6 småbarnsplasser, ledig fra august"
       ]
     },
     "Sagene": {
