@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-05T12:05:21.357892",
+  "lastUpdate": "2025-06-05T12:44:49.878528",
   "spots": {
     "Bjerke": {
       "available_spots": [
@@ -8,6 +8,11 @@
         "Lykketrollet fam.barnehage avd Kroklivn for barn under 3 år: 2 plasser i august",
         "Lykketrollet fam.barnehage avd Åkerøvn for barn under 3 år: 1 plass i august.",
         "Lykktrollet fam.barnehage avd Eltonvn for barn under 3 år: 1 plass i august."
+      ]
+    },
+    "Frogner": {
+      "available_spots": [
+        "Amigos familiebarnehage avd. Abrakadabra: 1 plass for barn under 3 år, ledig i august."
       ]
     },
     "Gamle Oslo": {
