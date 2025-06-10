@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-10T08:04:21.243659",
+  "lastUpdate": "2025-06-10T08:39:28.752657",
   "spots": {
     "Bjerke": {
       "available_spots": [
@@ -82,10 +82,12 @@
     },
     "Østensjø": {
       "available_spots": [
+        "Knærten familiebarnehage: 3 ledige småbarnsplasser, fra august",
         "Lykketrollet familiebhg. avd. Bogerudveien 25: 4 ledige småbarnsplasser, fra august",
         "Lykketrollet familiebhg. avd. Bogerudveien 27: 6 ledige småbarnsplasser, fra august",
         "Lykketrollet familiebhg. avd. Stordamveien: 2 ledige småbarnsplasser, fra august",
-        "Lykketrollet familiebhg. avd. Ulsrudveien: 6 ledige småbarnsplasser, fra august"
+        "Lykketrollet familiebhg. avd. Ulsrudveien: 6 ledige småbarnsplasser, fra august",
+        "Trollungene familiebarnehage: 7 ledige småbarnsplasser, fra auguust"
       ]
     }
   }
