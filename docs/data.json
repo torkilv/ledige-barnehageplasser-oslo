@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-24T10:03:29.378390",
+  "lastUpdate": "2025-06-24T10:38:26.068558",
   "spots": {
     "Bjerke": {
       "available_spots": [
@@ -46,6 +46,11 @@
         "SiO barnehage Eilert Sundt: 2 storebarnsplasser og 5 småbarnsplasser, ledig fra august",
         "SiO barnehage Skogly: 2 storebarnsplasser og 2 småbarnsplasser, ledig fra august",
         "Ullevålsletta barnehage: 3 storebarnsplasser og 4 småbarnsplasser, ledig fra august"
+      ]
+    },
+    "Nordstrand": {
+      "available_spots": [
+        "Bekkelaget familiebarnehage: 1 plass for barn under 3 år fra oktober"
       ]
     },
     "Sagene": {
