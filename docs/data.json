@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-06-25T12:05:34.088273",
+  "lastUpdate": "2025-06-25T12:44:57.446407",
   "spots": {
     "Bjerke": {
       "available_spots": [
@@ -56,6 +56,11 @@
     "Sagene": {
       "available_spots": [
         "Lykketrollet familiebarnehage: Ledige plasser fra august for barn i alderen 0-3 år, 7 ledige i Vogtsgate 32 og 1 ledig i Bentsegata 6"
+      ]
+    },
+    "St. Hanshaugen": {
+      "available_spots": [
+        "Lindekroken Kanvas barnehage: 3 ledige plasser 1-3 år og 2 ledige plasser 3-6 år fra august"
       ]
     },
     "Søndre Nordstrand": {
