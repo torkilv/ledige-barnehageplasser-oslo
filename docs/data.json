@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-09-05T13:08:54.203442",
+  "lastUpdate": "2025-09-05T13:36:37.930401",
   "spots": {
     "Bjerke": {
       "available_spots": [
@@ -51,13 +51,12 @@
     "Søndre Nordstrand": {
       "available_spots": [
         "Bjørnebo barnehage 4 ledige plasser for barn 0-3 år fra september",
-        "Blakkensvei barnehage 7 ledige plasser for barn 0-3 år fra september",
-        "Fjeldlund barnehage: 2 ledige plasser for barn 0-3 år og 2 ledige plass for barn 3-6 år fra september",
-        "Kantarellen barnehage2 ledige plasser for barn 0-3 år og 4 ledige plass for barn 3-6 år fra september",
-        "Solbakken barnehage 2 ledige plasser for barn 0-3 år og 2 ledige plass for barn 3-6 år fra september",
+        "Blakkensvei barnehage 4 ledige plasser for barn 0-3 år fra september",
+        "Fjeldlund barnehage: 1 ledig plass for barn 0-3 år og 2 ledige plass for barn 3-6 år fra september",
+        "Solbakken barnehage 1 ledig plass for barn 0-3 år og 2 ledige plass for barn 3-6 år fra september",
         "Taranrød barnehage: 2 ledige plasser for barn 0-3 år fra september",
-        "Åsbråten barnehage 8 ledige plasser for barn 0-3 år og 10 ledige plass for barn 3-6 år fra september",
-        "Åstun barnehage 10 ledige plasser for barn 0-3 år og 3 ledige plass for barn 3-6 år fra september"
+        "Åsbråten barnehage 3 ledige plasser for barn 0-3 år og 8 ledige plass for barn 3-6 år fra september",
+        "Åstun barnehage 5 ledige plasser for barn 0-3 år fra september"
       ]
     },
     "Ullern": {
