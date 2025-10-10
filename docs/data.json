@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-10T10:36:20.311479",
+  "lastUpdate": "2025-10-10T11:03:32.213123",
   "spots": {
     "Gamle Oslo": {
       "available_spots": [
@@ -32,6 +32,13 @@
         "Åstun barnehage 5 ledige plasser for barn 0-3 år fra september"
       ]
     },
+    "Ullern": {
+      "available_spots": [
+        "Amigos småvenner familiebarnehage: 1 ledig for barn 0-3 fra oktober",
+        "Amigos småvenner familiebarnehage: 1 ledig for barn 0-3 fra oktoberCasinetto Borettslags barnehage: 3 plasser for barn 3-6 år fra oktoberHakkebakkeskogen familiebarnehage Ullernveien: 1 ledig plass fra oktoberIngvilds familiebarnehage: 1 ledig fra oktoberKjosjordet barnehage: 2 ledige plasser til barn 3-6 år fra oktoberLilleaker barnehage: 3 ledige plasser barn 0-3 år fra oktoberNordjordet barnehage: 2 ledige plasser for barn 3-6 år fra oktoberThaulow barnehage: 3 ledige plasser for barn 3-6 år fra oktoberTørtberg Kanvasbarnehage: Ledige plasser til barn 3-6 år fra oktober",
+        "Lilleaker barnehage: 3 ledige plasser barn 0-3 år fra oktober"
+      ]
+    },
     "Vestre Aker": {
       "available_spots": [
         "Amigos barnehage, Du og jeg og vi to: 2 Småbarnsplasser, ledige fra september 2025.",
@@ -43,11 +50,11 @@
     },
     "Østensjø": {
       "available_spots": [
-        "Bogerud gård barnehage: 2 ledige storbarnsplasser, fra september/oktoberHusmannsplassen barnehage: 1 ledig storbarnsplass, september/oktoberLille Langerud barnehage: 1 ledig storbarnsplass, fra september/oktoberLykketrollet familiebhg. avd. Bogerudveien 25: 5 ledige småbarnsplasser, september/oktoberLykketrollet familiebhg. avd. Bogerudveien 27: 5 ledige småbarnsplasser, september/oktoberLykketrollet familiebhg. avd. Ulsrudveien: 3 ledige småbarnsplasser, september/oktoberTrollungene familiebarnehage: 2 ledige småbarnsplasser, fra september/oktober",
-        "Lykketrollet familiebhg. avd. Bogerudveien 25: 5 ledige småbarnsplasser, september/oktober",
-        "Lykketrollet familiebhg. avd. Bogerudveien 27: 5 ledige småbarnsplasser, september/oktober",
-        "Lykketrollet familiebhg. avd. Ulsrudveien: 3 ledige småbarnsplasser, september/oktober",
-        "Trollungene familiebarnehage: 2 ledige småbarnsplasser, fra september/oktober"
+        "Bogerud gård barnehage: 1 ledige storbarnsplasser, fra oktoberHoltet barnehage: 4 ledige småbarnsplasser, fra oktoberHusmannsplassen barnehage: 1 ledig storbarnsplass, fra oktoberLille Langerud barnehage: 1 ledig storbarnsplass, fra oktoberLykketrollet familiebhg. avd. Bogerudveien 25: 4 ledige småbarnsplasser, fra oktoberLykketrollet familiebhg. avd. Bogerudveien 27: 6 ledige småbarnsplasser, fra oktoberLykketrollet familiebhg. avd. Ulsrudveien: 2 ledige småbarnsplasser, fra oktober",
+        "Holtet barnehage: 4 ledige småbarnsplasser, fra oktober",
+        "Lykketrollet familiebhg. avd. Bogerudveien 25: 4 ledige småbarnsplasser, fra oktober",
+        "Lykketrollet familiebhg. avd. Bogerudveien 27: 6 ledige småbarnsplasser, fra oktober",
+        "Lykketrollet familiebhg. avd. Ulsrudveien: 2 ledige småbarnsplasser, fra oktober"
       ]
     }
   }
