@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2025-10-13T10:03:59.144292",
+  "lastUpdate": "2025-10-13T10:37:33.917426",
   "spots": {
+    "Frogner": {
+      "available_spots": [
+        "Betha Thorsen barnehage: 1 plass for barn over 3 år, ledig fra oktober.Bygården barnehage: 1 plass for barn over 3 år, ledig fra augustGodbiten barnehage: 4 plasser for barn under 3 år, ledig oktober/novemberHamna barnehage: 1 plass for barn over 3 år, ledig fra oktoberPortnerboligen naturbarnehage: 4 plasser for barn over 3 år, ledig fra september",
+        "Godbiten barnehage: 4 plasser for barn under 3 år, ledig oktober/november"
+      ]
+    },
     "Gamle Oslo": {
       "available_spots": [
         "Borggata familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra september"
