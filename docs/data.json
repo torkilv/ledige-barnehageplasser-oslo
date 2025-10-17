@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2025-10-17T12:05:28.273053",
+  "lastUpdate": "2025-10-17T12:44:56.407772",
   "spots": {
+    "Alna": {
+      "available_spots": [
+        "Lutvannskollen barnehage: 1 plass under 3 år og 1 plass over 3 år ledig fra november",
+        "Lutvannskollen barnehage: 1 plass under 3 år og 1 plass over 3 år ledig fra novemberLohøgda barnehage: 1 plass over 3 år ledig fra novemberStubberudlia barnehage: 1 plass over 3 år, ledig fra november"
+      ]
+    },
     "Frogner": {
       "available_spots": [
         "Betha Thorsen barnehage: 1 plass for barn over 3 år, ledig fra oktober.Bygården barnehage: 1 plass for barn over 3 år, ledig fra augustGodbiten barnehage: 4 plasser for barn under 3 år, ledig oktober/novemberHamna barnehage: 1 plass for barn over 3 år, ledig fra oktoberPortnerboligen naturbarnehage: 4 plasser for barn over 3 år, ledig fra september",
@@ -14,16 +20,9 @@
     },
     "Nordre Aker": {
       "available_spots": [
-        "Amigos familiebarnehage Giraffen: 7 småbarnsplasser, ledig fra august",
-        "Amigos familiebarnehage Giraffen: 7 småbarnsplasser, ledig fra augustAmigos familiebarnehage Småen: 7 ledige småbarnsplasser, ledig fra augustEplehagen Kanvas barnehage: 4 storebarnsplasser ledig fra augustGaustadsnippen barnehage: 2 storebarnsplasser og 4 småbarnsplasser, ledig fra augustHakkebakkeskogen familiebarnehage Tåsenveien: 1 småbarnsplass, ledig fra august.Maridalen barnehage: 2 storebarnsplasser ledig fra august.Norlandia Gaustadskogen barnehage: 5 storebarnsplasser og 5 småbarnsplasser, ledig fra august.Norlandia Gaustadskogen barnehage: 7 småbarnsplasser, ledig fra september.SiO barnehage Almelia: 5 storebarnsplasser og 4 småbarnsplasser, ledig fra augustSiO barnehage Bamsebo: 4 storebarnsplasser, ledig fra august.SiO barnehage Eilert Sundt: 2 småbarnsplasser, ledig fra august.Solemskogen naturbarnehage: 2 storebarnsplasser, ledig fra augustUllevålsletta barnehage: 2 storebarnsplasser og 4 småbarnsplasser, ledig fra september.",
-        "Amigos familiebarnehage Småen: 7 ledige småbarnsplasser, ledig fra august",
-        "Gaustadsnippen barnehage: 2 storebarnsplasser og 4 småbarnsplasser, ledig fra august",
-        "Hakkebakkeskogen familiebarnehage Tåsenveien: 1 småbarnsplass, ledig fra august.",
-        "Norlandia Gaustadskogen barnehage: 5 storebarnsplasser og 5 småbarnsplasser, ledig fra august.",
-        "Norlandia Gaustadskogen barnehage: 7 småbarnsplasser, ledig fra september.",
-        "SiO barnehage Almelia: 5 storebarnsplasser og 4 småbarnsplasser, ledig fra august",
-        "SiO barnehage Eilert Sundt: 2 småbarnsplasser, ledig fra august.",
-        "Ullevålsletta barnehage: 2 storebarnsplasser og 4 småbarnsplasser, ledig fra september."
+        "Amigos familiebarnehage avd Småen: 4 småbarnsplasser, ledig fra oktober",
+        "Rektorhaugen barnehage: 1 ledig småbarnsplass, ledig fra oktober",
+        "Tåsenløkka barnehage: 1 ledig storebarnsplass, ledig fra oktoberSolemskogen Naturbarnehage: 1 ledig storebarnsplass, ledig fra oktoberUniversitetets barnehage: 1 ledig storebarnsplass, ledig fra oktoberUniversitetets barnehage: 2 ledige storebarnsplasser, ledig fra novemberRektorhaugen barnehage: 1 ledig småbarnsplass, ledig fra oktoberAmigos familiebarnehage avd Småen: 4 småbarnsplasser, ledig fra oktober"
       ]
     },
     "Søndre Nordstrand": {
