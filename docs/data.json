@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-10-30T11:03:23.547974",
+  "lastUpdate": "2025-10-30T11:32:38.711781",
   "spots": {
     "Alna": {
       "available_spots": [
@@ -9,8 +9,8 @@
     },
     "Frogner": {
       "available_spots": [
-        "Betha Thorsen barnehage: 1 plass for barn over 3 år, ledig fra oktober.Bygården barnehage: 1 plass for barn over 3 år, ledig fra augustGodbiten barnehage: 2 plasser for barn under 3 år, ledig fra novemberGydas Vei barnehage – 1 plass for barn over 3 år, ledig fra novemberHamna barnehage: 1 plass for barn over 3 år, ledig fra oktoberHegdehaugen barnehage – 1 plass for barn over 3 år, ledig fra novemberRosenborg barnehage - 1 plass for barn over 3 år, ledig fra novemberSolbærtorvet barnehage - 1 plass for barn over 3 år, ledig fra november",
-        "Godbiten barnehage: 2 plasser for barn under 3 år, ledig fra november"
+        "Amigos Familiebarnehage avd. Tornerose - 1 plass ledig for barn under 3 år, fra januar.",
+        "Amigos Familiebarnehage avd. Tornerose - 1 plass ledig for barn under 3 år, fra januar.Betha Thorsen barnehage: 1 plass for barn over 3 år, ledig fra oktober.Bygården barnehage: 1 plass for barn over 3 år, ledig fra augustGydas Vei barnehage – 1 plass for barn over 3 år, ledig fra novemberHamna barnehage: 1 plass for barn over 3 år, ledig fra oktoberHegdehaugen barnehage – 1 plass for barn over 3 år, ledig fra novemberHjelmsgate barnehage - Ledig plass for barn over 3 år, ledig fra novemberRosenborg barnehage - 1 plass for barn over 3 år, ledig fra novemberSolbærtorvet barnehage - 1 plass for barn over 3 år, ledig fra november"
       ]
     },
     "Gamle Oslo": {
@@ -54,11 +54,11 @@
     },
     "Østensjø": {
       "available_spots": [
-        "Bogerud gård barnehage: 1 ledige storbarnsplasser og 2 småbarnsplasser, fra oktober",
-        "Bogerud gård barnehage: 1 ledige storbarnsplasser og 2 småbarnsplasser, fra oktoberHoltet barnehage: 2 ledige småbarnsplasser, 1 ledig storbarnsplass, fra oktoberHusmannsplassen barnehage: 1 ledig storbarnsplass, fra oktoberLille Langerud barnehage: 1 ledig storbarnsplass, fra oktoberLykketrollet familiebhg. avd. Bogerudveien 25: 4 ledige småbarnsplasser, fra oktoberLykketrollet familiebhg. avd. Bogerudveien 27: 6 ledige småbarnsplasser, fra oktoberSolfridbakken barnehage: 1 ledig storbarnsplass, fra oktober",
-        "Holtet barnehage: 2 ledige småbarnsplasser, 1 ledig storbarnsplass, fra oktober",
-        "Lykketrollet familiebhg. avd. Bogerudveien 25: 4 ledige småbarnsplasser, fra oktober",
-        "Lykketrollet familiebhg. avd. Bogerudveien 27: 6 ledige småbarnsplasser, fra oktober"
+        "Bogerud gård barnehage: 1 ledige storbarnsplass og 1 småbarnsplasser, fra november",
+        "Bogerud gård barnehage: 1 ledige storbarnsplass og 1 småbarnsplasser, fra novemberHoltet barnehage: 1 ledige småbarnsplasser, 1 ledig storbarnsplass, fra novemberHusmannsplassen barnehage: 1 ledig storbarnsplass, fra novemberLille Langerud barnehage: 1 ledig storbarnsplass fra november, 2 ledige storbarnsplasser fra januarLykketrollet familiebhg. avd. Bogerudveien 25: 4 ledige småbarnsplasser, fra novemberLykketrollet familiebhg. avd. Bogerudveien 27: 6 ledige småbarnsplasser, fra novemberSolfridbakken barnehage: 1 ledig storbarnsplass, fra november",
+        "Holtet barnehage: 1 ledige småbarnsplasser, 1 ledig storbarnsplass, fra november",
+        "Lykketrollet familiebhg. avd. Bogerudveien 25: 4 ledige småbarnsplasser, fra november",
+        "Lykketrollet familiebhg. avd. Bogerudveien 27: 6 ledige småbarnsplasser, fra november"
       ]
     }
   }
