@@ -1,12 +1,11 @@
 {
-  "lastUpdate": "2025-11-04T14:03:45.268725",
+  "lastUpdate": "2025-11-04T14:37:16.302576",
   "spots": {
     "Alna": {
       "available_spots": [
-        "Barneslottet barnehage: 1 plass under 3 år, ledig fra november",
         "Gransbakken barnehage: 1 plass under 3 år, ledig fra november",
         "Lia barnehage: 2 plasser under 3 år, ledig fra november",
-        "Lia barnehage: 2 plasser under 3 år, ledig fra novemberNorlandia Fagerholt barnehage: 1 plass over 3 år, ledig fra desemberBarneslottet barnehage: 1 plass under 3 år, ledig fra novemberGransbakken barnehage: 1 plass under 3 år, ledig fra novemberLutvannskollen barnehage: 1 plass under 3 år og 1 plass over 3 år ledig fra novemberLohøgda barnehage: 1 plass over 3 år ledig fra novemberStubberudlia barnehage: 1 plass over 3 år, ledig fra november",
+        "Lia barnehage: 2 plasser under 3 år, ledig fra novemberNorlandia Fagerholt barnehage: 1 plass over 3 år, ledig fra desemberGransbakken barnehage: 1 plass under 3 år, ledig fra novemberLutvannskollen barnehage: 1 plass under 3 år og 1 plass over 3 år ledig fra novemberLohøgda barnehage: 1 plass over 3 år ledig fra novemberStubberudlia barnehage: 1 plass over 3 år, ledig fra novemberTeisentoppen barnehage, Frelsesarmeen: 1 plass over 3 år, ledig fra desember",
         "Lutvannskollen barnehage: 1 plass under 3 år og 1 plass over 3 år ledig fra november"
       ]
     },
@@ -20,6 +19,13 @@
       "available_spots": [
         "Amigos familiebarnehage avd Småen: 4 småbarnsplasser, ledig fra oktober",
         "Badebakken barnehage: 1 ledig storebarnsplass, ledig fra desemberSolemskogen Naturbarnehage: 1 ledig storebarnsplass, ledig fra oktoberUniversitetets barnehage: 1 ledig storebarnsplass, ledig fra oktoberUniversitetets barnehage: 2 ledige storebarnsplasser, ledig fra novemberAmigos familiebarnehage avd Småen: 4 småbarnsplasser, ledig fra oktober"
+      ]
+    },
+    "Stovner": {
+      "available_spots": [
+        "Fossum barnehage: 3 ledige plasser for barn 3-6 år fra november/desemberKaren Aasumb barnehage: 6 ledige plasser for barn 3-6 år fra november.Smedstua gård barnehage: 2 ledige plasser for barn 3-6 år (NB! Midlertidig i Østausa bhg)Stovnerfaret barnehage: 4 ledige plasser for barn 2-6 år fra november.Stovnerhøgda barnehage: 1 ledig plass for barn 3-6 år fra desember.Tokerudåsen barnehage: 1 ledig plass for barn 3-6 år fra desemberVestliberget barnehage: 1 ledig plass for barn 3-6 år fra desemberVestliskogen barnehage: 3 ledige plasser for barn 1-3 år fra november-desember, 5 ledige plasser for barn 3-6 år fra november.Vestlitoppen barnehage: 2 ledige plasser for barn 1-3 år fra desember.",
+        "Vestliskogen barnehage: 3 ledige plasser for barn 1-3 år fra november-desember, 5 ledige plasser for barn 3-6 år fra november.",
+        "Vestlitoppen barnehage: 2 ledige plasser for barn 1-3 år fra desember."
       ]
     },
     "Søndre Nordstrand": {
