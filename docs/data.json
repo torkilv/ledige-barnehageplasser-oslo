@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-10T10:38:39.914888",
+  "lastUpdate": "2025-11-10T11:03:33.821939",
   "spots": {
     "Alna": {
       "available_spots": [
@@ -18,7 +18,8 @@
     "Nordre Aker": {
       "available_spots": [
         "Amigos familiebarnehage avd Småen: 4 småbarnsplasser, ledig fra oktober",
-        "Badebakken barnehage: 1 ledig storebarnsplass, ledig fra desemberSolemskogen Naturbarnehage: 1 ledig storebarnsplass, ledig fra oktoberUniversitetets barnehage: 1 ledig storebarnsplass, ledig fra oktoberUniversitetets barnehage: 2 ledige storebarnsplasser, ledig fra novemberAmigos familiebarnehage avd Småen: 4 småbarnsplasser, ledig fra oktober"
+        "Badebakken barnehage: 1 ledig storebarnsplass, ledig fra desemberGaustadsnippen barnehage: 1 ledig småbarnsplass og 1 ledig storebarnsplass, ledig fra 1. desemberSolemskogen Naturbarnehage: 1 ledig storebarnsplass, ledig fra oktoberUniversitetets barnehage: 1 ledig storebarnsplass, ledig fra oktoberUniversitetets barnehage: 2 ledige storebarnsplasser, ledig fra novemberAmigos familiebarnehage avd Småen: 4 småbarnsplasser, ledig fra oktober",
+        "Gaustadsnippen barnehage: 1 ledig småbarnsplass og 1 ledig storebarnsplass, ledig fra 1. desember"
       ]
     },
     "Stovner": {
@@ -44,19 +45,17 @@
     "Vestre Aker": {
       "available_spots": [
         "Amigos barnehage, Du og jeg og vi to: 2 Småbarnsplasser, ledige fra september 2025.",
-        "Amigos barnehage, Du og jeg og vi to: 2 Småbarnsplasser, ledige fra september 2025.Frantsebråten barnehage: 1 storebarnsplass, ledig fra november 2025.Giske barnehage: 1 storebarnsplass, ledig fra november 2025Holmenveien barnehage: 1 storebarnsplass, ledig fra desember 2025Hov-Meklenborg barnehage: 1 storebarnsplass, ledig fra november.Jeppes familiebarnehage: 3 småbarnsplasser, ledig fra september/oktober 2025.Kongeørnen barnehage: 21 storebarnsplasser, ledige fra oktober 2025.Landingsveien barnehage: 1 storebarnsplass, ledig fra november 2025.Liabakken barnehage: 5 småbarnsplasser og 1 storebarnsplass, ledig fra november/desember 2025Montessoribarnehagen Solsikken Gladheim: 2 storebarnsplasser, ledig fra september 2025.Norlandia Tomms Hytter friluftsbarnehage: 2 storebarnsplass, ledig fra oktober 2025.",
+        "Amigos barnehage, Du og jeg og vi to: 2 Småbarnsplasser, ledige fra september 2025.Frantsebråten barnehage: 1 storebarnsplass, ledig fra november 2025.Giske barnehage: 1 storebarnsplass, ledig fra november 2025Holmenveien barnehage: 1 storebarnsplass, ledig fra desember 2025Hov-Meklenborg barnehage: 1 storebarnsplass, ledig fra november.Jeppes familiebarnehage: 3 småbarnsplasser, ledig fra september/oktober 2025.Kongeørnen barnehage: 21 storebarnsplasser, ledige fra oktober 2025.Landingsveien barnehage: 1 storebarnsplass, ledig fra november 2025.Liabakken barnehage: 2 småbarnsplasser og 1 storebarnsplass, ledig fra november/desember 2025Montessoribarnehagen Solsikken Gladheim: 2 storebarnsplasser, ledig fra september 2025.Norlandia Tomms Hytter friluftsbarnehage: 2 storebarnsplass, ledig fra oktober 2025.",
         "Jeppes familiebarnehage: 3 småbarnsplasser, ledig fra september/oktober 2025.",
-        "Liabakken barnehage: 5 småbarnsplasser og 1 storebarnsplass, ledig fra november/desember 2025"
+        "Liabakken barnehage: 2 småbarnsplasser og 1 storebarnsplass, ledig fra november/desember 2025"
       ]
     },
     "Østensjø": {
       "available_spots": [
-        "Bogerud gård barnehage: 1 ledige storbarnsplass og 1 småbarnsplasser, fra november",
-        "Bogerud gård barnehage: 1 ledige storbarnsplass og 1 småbarnsplasser, fra novemberHoltet barnehage: 1 ledige småbarnsplasser, 1 ledig storbarnsplass, fra novemberHusmannsplassen barnehage: 1 ledig storbarnsplass, fra novemberLille Langerud barnehage: 1 ledig storbarnsplass fra november, 2 ledige storbarnsplasser fra januarLykketrollet familiebhg. avd. Bogerudveien 25: 3 ledige småbarnsplasser, fra novemberLykketrollet familiebhg. avd. Bogerudveien 27: 5 ledige småbarnsplasser, fra novemberSolfridbakken barnehage: 1 ledig storbarnsplass, fra novemberUtmarkveien barnehage: 1 ledig småbarnsplass, fra november",
-        "Holtet barnehage: 1 ledige småbarnsplasser, 1 ledig storbarnsplass, fra november",
+        "Bogerud gård barnehage: 1 ledige storbarnsplass fra novemberHoltet barnehage: 1 ledige småbarnsplasser fra novemberLille Langerud barnehage: 1 ledig storbarnsplass fra november, 2 ledige storbarnsplasser fra januarLykketrollet familiebhg. avd. Bogerudveien 25: 3 ledige småbarnsplasser, fra novemberLykketrollet familiebhg. avd. Bogerudveien 27: 5 ledige småbarnsplasser, fra novemberSolfridbakken barnehage: 1 ledig storbarnsplass, fra november",
+        "Holtet barnehage: 1 ledige småbarnsplasser fra november",
         "Lykketrollet familiebhg. avd. Bogerudveien 25: 3 ledige småbarnsplasser, fra november",
-        "Lykketrollet familiebhg. avd. Bogerudveien 27: 5 ledige småbarnsplasser, fra november",
-        "Utmarkveien barnehage: 1 ledig småbarnsplass, fra november"
+        "Lykketrollet familiebhg. avd. Bogerudveien 27: 5 ledige småbarnsplasser, fra november"
       ]
     }
   }
