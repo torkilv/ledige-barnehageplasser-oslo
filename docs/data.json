@@ -1,11 +1,17 @@
 {
-  "lastUpdate": "2025-11-25T12:06:02.253094",
+  "lastUpdate": "2025-11-25T12:45:13.764147",
   "spots": {
     "Alna": {
       "available_spots": [
         "Lia barnehage: 1 plass under 3 år, ledig fra november",
         "Lia barnehage: 1 plass under 3 år, ledig fra novemberNorlandia Fagerholt barnehage: 1 plass over 3 år, ledig fra desemberLutvannskollen barnehage: 1 plass under 3 år og 1 plass over 3 år ledig fra novemberSolfjellet barnehage: 1 plass over 3 år, ledig fra desemberTeisentoppen barnehage, Frelsesarmeen: 1 plass over 3 år, ledig fra desember",
         "Lutvannskollen barnehage: 1 plass under 3 år og 1 plass over 3 år ledig fra november"
+      ]
+    },
+    "Gamle Oslo": {
+      "available_spots": [
+        "Mosaikk Urtehagen barnehager: 2 ledig plass for barn over 3 år, ledig fra desemberEtterstad barnehage: 2 ledige plasser for barn over 3 år, ledig fra desemberVenkes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra januar",
+        "Venkes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra januar"
       ]
     },
     "Stovner": {
@@ -28,7 +34,7 @@
     },
     "Vestre Aker": {
       "available_spots": [
-        "Frantsebråten barnehage: 1 storebarnsplass, ledig fra november 2025.Giske barnehage: 1 storebarnsplass, ledig fra november 2025Holmenveien barnehage: 1 storebarnsplass, ledig fra desember 2025Hov-Meklenborg barnehage: 1 storebarnsplass, ledig fra november.Jeppes familiebarnehage: 1 småbarnsplass ledig fra november 2025.Kongeørnen barnehage: 21 storebarnsplasser, ledige fra oktober 2025.Montessoribarnehagen Solsikken Gladheim: 2 storebarnsplasser, ledig fra september 2025.Norlandia Tomms Hytter friluftsbarnehage: 2 storebarnsplass, ledig fra oktober 2025.",
+        "Giske barnehage: 1 storebarnsplass, ledig fra november 2025Holmenveien barnehage: 1 storebarnsplass, ledig fra desember 2025Jeppes familiebarnehage: 1 småbarnsplass ledig fra november 2025.Kongeørnen barnehage: 21 storebarnsplasser, ledige fra oktober 2025.Montessoribarnehagen Solsikken Gladheim: 2 storebarnsplasser, ledig fra september 2025.Norlandia Tomms Hytter friluftsbarnehage: 2 storebarnsplass, ledig fra oktober 2025.",
         "Jeppes familiebarnehage: 1 småbarnsplass ledig fra november 2025."
       ]
     },
