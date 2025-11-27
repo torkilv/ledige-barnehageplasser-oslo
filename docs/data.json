@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-27T12:45:06.375857",
+  "lastUpdate": "2025-11-27T13:12:16.702393",
   "spots": {
     "Alna": {
       "available_spots": [
@@ -8,10 +8,10 @@
         "Lutvannskollen barnehage: 1 plass under 3 år og 1 plass over 3 år ledig fra november"
       ]
     },
-    "Gamle Oslo": {
+    "Bjerke": {
       "available_spots": [
-        "Mosaikk Urtehagen barnehager: 2 ledig plass for barn over 3 år, ledig fra desemberEtterstad barnehage: 2 ledige plasser for barn over 3 år, ledig fra desemberVenkes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra januar",
-        "Venkes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra januar"
+        "* Madamløkken Barnehage, REDUSERT plass klokken 9.15-14.30 for barn OVER 3 år.Ulvenparken barnehage: 1 plass for barn under 3 år, og 3 plasser for barn over 3 år. Ledige fra januar 2026.",
+        "Ulvenparken barnehage: 1 plass for barn under 3 år, og 3 plasser for barn over 3 år. Ledige fra januar 2026."
       ]
     },
     "Stovner": {
@@ -34,8 +34,8 @@
     },
     "Vestre Aker": {
       "available_spots": [
-        "Giske barnehage: 1 storebarnsplass, ledig fra november 2025Holmenveien barnehage: 1 storebarnsplass, ledig fra desember 2025Jeppes familiebarnehage: 1 småbarnsplass ledig fra november 2025.Kongeørnen barnehage: 21 storebarnsplasser, ledige fra oktober 2025.Montessoribarnehagen Solsikken Gladheim: 2 storebarnsplasser, ledig fra september 2025.Norlandia Tomms Hytter friluftsbarnehage: 2 storebarnsplass, ledig fra oktober 2025.",
-        "Jeppes familiebarnehage: 1 småbarnsplass ledig fra november 2025."
+        "Giske barnehage: 1 storebarnsplass, ledig fra november 2025Holmenveien barnehage: 1 storebarnsplass, ledig fra desember 2025Huseby barnehage: 1 småbarnsplass, ledig fra desember 2025Kongeørnen barnehage: 21 storebarnsplasser, ledige fra oktober 2025Montessoribarnehagen Solsikken Gladheim: 2 storebarnsplasser, ledig fra september 2025Norlandia Tomms Hytter friluftsbarnehage: 2 storebarnsplass, ledig fra oktober 2025",
+        "Huseby barnehage: 1 småbarnsplass, ledig fra desember 2025"
       ]
     },
     "Østensjø": {
