@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2025-11-28T09:35:16.632076",
+  "lastUpdate": "2025-11-28T10:03:42.267724",
   "spots": {
     "Alna": {
       "available_spots": [
@@ -12,6 +12,12 @@
       "available_spots": [
         "* Madamløkken Barnehage, REDUSERT plass klokken 9.15-14.30 for barn OVER 3 år.Ulvenkroken barnehage: 1 plass for barn under 3 år, og 3 plasser for barn over 3 år. Ledige fra januar 2026.",
         "Ulvenkroken barnehage: 1 plass for barn under 3 år, og 3 plasser for barn over 3 år. Ledige fra januar 2026."
+      ]
+    },
+    "Frogner": {
+      "available_spots": [
+        "Ankerhagen barnehage: 1 plass for barn over 3 år, ledig fra desember.Betha Thorsen barnehage: 1 plass for barn over 3 år, ledig fra oktober.Bygården barnehage: 1 plass for barn over 3 år ledig fra novemberGodbiten barnehage: 2 plasser for barn under 3 år, ledig fra januar/februar.Gydas Vei barnehage : 1 plass for barn over 3 år, ledig fra novemberHegdehaugen barnehage : 1 plass for barn over 3 år, ledig fra novemberSolbærtorvet barnehage : 1 plass for barn over 3 år, ledig fra november",
+        "Godbiten barnehage: 2 plasser for barn under 3 år, ledig fra januar/februar."
       ]
     },
     "Stovner": {
@@ -40,7 +46,7 @@
     },
     "Østensjø": {
       "available_spots": [
-        "Bogerud gård barnehage: 1 ledige storbarnsplass fra novemberBøler menighetsbarnehage: 1 ledig storbarnsplass, fra desemberLille Langerud barnehage: 1 ledig storbarnsplass fra november, 2 ledige storbarnsplasser fra januarLykketrollet familiebhg. avd. Bogerudveien 25: 3 ledige småbarnsplasser, fra novemberLykketrollet familiebhg. avd. Bogerudveien 27: 3 ledige småbarnsplasser, fra novemberLykketrollet familiebhg. avd. Stordamveien: 1 ledig småbarnsplass, fra november",
+        "Bøler menighetsbarnehage: 1 ledig storbarnsplass, fra desemberLille Langerud barnehage: 2 ledige storbarnsplasser fra januarLykketrollet familiebhg. avd. Bogerudveien 25: 3 ledige småbarnsplasser, fra novemberLykketrollet familiebhg. avd. Bogerudveien 27: 3 ledige småbarnsplasser, fra novemberLykketrollet familiebhg. avd. Stordamveien: 1 ledig småbarnsplass, fra november",
         "Lykketrollet familiebhg. avd. Bogerudveien 25: 3 ledige småbarnsplasser, fra november",
         "Lykketrollet familiebhg. avd. Bogerudveien 27: 3 ledige småbarnsplasser, fra november",
         "Lykketrollet familiebhg. avd. Stordamveien: 1 ledig småbarnsplass, fra november"
