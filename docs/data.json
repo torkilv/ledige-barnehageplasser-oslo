@@ -1,13 +1,4 @@
 {
-  "lastUpdate": "2026-01-12T09:42:35.466810",
-  "spots": {
-    "Østensjø": {
-      "available_spots": [
-        "Bogerud gård barnehage: 2 ledige plasser for barn over 3 årBøler menighetsbarnehage: 1 ledig plass for barn over 3 årLykketrollet familiebhg. avd. Bogerudveien 25: 3 ledige plasser for barn under 3 årLykketrollet familiebhg. avd. Bogerudveien 27: 3 ledige plasser for barn under 3 årLykketrollet familiebhg. avd. Stordamveien: 1 ledig plass for barn under 3 år",
-        "Lykketrollet familiebhg. avd. Bogerudveien 25: 3 ledige plasser for barn under 3 år",
-        "Lykketrollet familiebhg. avd. Bogerudveien 27: 3 ledige plasser for barn under 3 år",
-        "Lykketrollet familiebhg. avd. Stordamveien: 1 ledig plass for barn under 3 år"
-      ]
-    }
-  }
+  "lastUpdate": "2026-01-12T10:05:00.542536",
+  "spots": {}
 }
