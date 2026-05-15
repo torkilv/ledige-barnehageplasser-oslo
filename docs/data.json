@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-15T07:34:58.680270",
+  "lastUpdate": "2026-05-15T09:02:35.993415",
   "spots": {
     "Gamle Oslo": {
       "available_spots": [
@@ -7,12 +7,6 @@
         "Sigurdsgate familiebarnehage: 3 ledige plasser for barn under 3 år, ledig fra august",
         "Trudes familiebarnehage: 2 ledige plasser for barn under 3 år, ledig fra 5.august og 10.september",
         "Venkes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra august"
-      ]
-    },
-    "Søndre Nordstrand": {
-      "available_spots": [
-        "Bjørnebo barnehage: 1 ledig småbarnsplass fra mai 2026",
-        "Bjørnebo barnehage: 1 ledig småbarnsplass fra mai 2026Solbakken barnehage: 2 ledige plasser for barn 3–6 år, ledig fra mai"
       ]
     }
   }
