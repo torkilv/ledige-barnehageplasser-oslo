@@ -1,12 +1,20 @@
 {
-  "lastUpdate": "2026-06-02T08:55:01.389115",
+  "lastUpdate": "2026-06-02T10:32:25.000888",
   "spots": {
     "Gamle Oslo": {
       "available_spots": [
         "Borggata familiebarnehage: 2 ledige plasser for barn under 3 år, ledig fra august",
-        "Borggata familiebarnehage: 2 ledige plasser for barn under 3 år, ledig fra augustPapaya Kanvas-barnehage: 1 ledige plass for barn over 3 år, ledig fra augustSigurdsgate familiebarnehage: 3 ledige plasser for barn under 3 år, ledig fra augustTrudes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra 10.september",
+        "Borggata familiebarnehage: 2 ledige plasser for barn under 3 år, ledig fra augustPapaya Kanvas-barnehage: 1 ledige plass for barn over 3 år, ledig fra augustSigurdsgate familiebarnehage: 3 ledige plasser for barn under 3 år, ledig fra augustTrudes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra 10. september",
         "Sigurdsgate familiebarnehage: 3 ledige plasser for barn under 3 år, ledig fra august",
-        "Trudes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra 10.september"
+        "Trudes familiebarnehage: 1 ledig plass for barn under 3 år, ledig fra 10. september"
+      ]
+    },
+    "Østensjø": {
+      "available_spots": [
+        "Lykketrollet familiebarnehage avd. Bogerudveien 25: 4 småbarnsplasser, fra august",
+        "Lykketrollet familiebarnehage avd. Bogerudveien 27: 3 småbarnsplasser, fra august",
+        "Lykketrollet familiebarnehage avd. Ulsrudveien: 3 småbarnsplasser, fra august",
+        "Lykketrollet familiebarnehage avd. Ulsrudveien: 3 småbarnsplasser, fra augustLykketrollet familiebarnehage avd. Bogerudveien 25: 4 småbarnsplasser, fra augustLykketrollet familiebarnehage avd. Bogerudveien 27: 3 småbarnsplasser, fra august"
       ]
     }
   }
