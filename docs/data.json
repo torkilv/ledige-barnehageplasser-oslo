@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-29T08:17:34.424551",
+  "lastUpdate": "2026-07-29T09:25:10.688244",
   "spots": {
     "Gamle Oslo": {
       "available_spots": [
@@ -15,10 +15,9 @@
     },
     "Østensjø": {
       "available_spots": [
-        "Lykketrollet familiebarnehage avd. Bogerudveien 25: 4 småbarnsplasser, fra august",
-        "Lykketrollet familiebarnehage avd. Bogerudveien 27: 3 småbarnsplasser, fra august",
-        "Lykketrollet familiebarnehage avd. Ulsrudveien: 3 småbarnsplasser, fra august",
-        "Lykketrollet familiebarnehage avd. Ulsrudveien: 3 småbarnsplasser, fra augustLykketrollet familiebarnehage avd. Bogerudveien 25: 4 småbarnsplasser, fra augustLykketrollet familiebarnehage avd. Bogerudveien 27: 3 småbarnsplasser, fra august"
+        "Lykketrollet familiebarnehage avd. Bogerudveien 25: 3 småbarnsplasser, fra august",
+        "Lykketrollet familiebarnehage avd. Bogerudveien 25: 3 småbarnsplasser, fra augustLykketrollet familiebarnehage avd. Bogerudveien 27: 2 småbarnsplasser, fra august",
+        "Lykketrollet familiebarnehage avd. Bogerudveien 27: 2 småbarnsplasser, fra august"
       ]
     }
   }
