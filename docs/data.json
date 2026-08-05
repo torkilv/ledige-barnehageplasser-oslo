@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-05T07:59:47.818638",
+  "lastUpdate": "2026-08-05T10:42:17.033308",
   "spots": {
     "Gamle Oslo": {
       "available_spots": [
@@ -11,6 +11,13 @@
       "available_spots": [
         "Lykketrollet familiebarnehage (Bentsegata 6A) for barn under 3 år: 2 ledige plasser fra august.",
         "Lykketrollet familiebarnehage (Vogts gate 32C) for barn under 3 år: 1 ledig plass fra august, og 1 ledig plass fra september ."
+      ]
+    },
+    "Søndre Nordstrand": {
+      "available_spots": [
+        "Blakkens vei barnehage: 2 ledige plasser for barn over 3 år, ledig fra august.Brennastubben familiebarnehage AS: 1ledig plasser for barn under 3 år, ledig fra august.Christiania Barnehave Bjørndal: 3 ledig plasser for barn over 3 år, ledig fra september.Hallagerstua barnehage SA: 1 ledig plasser for barn over 3 år, ledig fra august.Kantarellen barnehage: 2 ledige plasser for barn over 3 år, ledig fra august.Lofsrud barnehage: 2 ledige plasser for barn over 3 år, ledig fra august.Slime gård barnehage: 2 ledige plasser for barn over 3 år, ledig fra august.Solbakken barnehage SA: 2 ledige plasser for barn under 3 år, ledig fra august.Steinbråten naturbarnehage: 1 ledig plasser for barn over 3 år, ledig fra august.Åsbråten barnehage: 2 ledige plasser for barn over 3 år, ledig fra august.Åstun barnehage: 3 ledige plasser for barn over 3 år, ledig fra august.",
+        "Brennastubben familiebarnehage AS: 1ledig plasser for barn under 3 år, ledig fra august.",
+        "Solbakken barnehage SA: 2 ledige plasser for barn under 3 år, ledig fra august."
       ]
     },
     "Østensjø": {
