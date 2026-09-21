@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-09-21T10:55:34.386005",
+  "lastUpdate": "2026-09-21T16:44:48.129844",
   "spots": {
+    "Nordre Aker": {
+      "available_spots": [
+        "Skogly SIO barnehage: 3 plasser over 3 år og 2 plasser under 3 år",
+        "Sognsveien barnehage: 1 ledig plass for barn 3–5 årSkogly SIO barnehage: 3 plasser over 3 år og 2 plasser under 3 årAlmelia SIO barnehage: 2 plasser over 3 årFrydenhaug SIO barnehage: 2 plasser over 3 år"
+      ]
+    },
     "Søndre Nordstrand": {
       "available_spots": [
         "Blakkens vei barnehage: 2 ledige plasser for barn over 3 årBrennastubben familiebarnehage AS: 1ledig plasser for barn under 3 årChristiania Barnehave Bjørndal: 3 ledig plasser for barn over 3 årHallagerstua barnehage SA: 1 ledig plasser for barn over 3 årKantarellen barnehage: 2 ledige plasser for barn over 3 årLofsrud barnehage: 2 ledige plasser for barn over 3 årSlime gård barnehage: 2 ledige plasser for barn over 3 årSolbakken barnehage SA: 2 ledige plasser for barn under 3 årSteinbråten naturbarnehage: 1 ledig plasser for barn over 3 årÅsbråten barnehage: 2 ledige plasser for barn over 3 årÅstun barnehage: 3 ledige plasser for barn over 3 år",
