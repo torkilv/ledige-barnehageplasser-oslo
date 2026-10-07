@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "2026-10-07T09:39:17.934861",
+  "lastUpdate": "2026-10-07T17:09:10.254715",
   "spots": {
+    "Nordre Aker": {
+      "available_spots": [
+        "Almelia SIO barnehage: 2 plasser over 3 årBadebakken barnehage: 1 plass over 3 år, fra novemberEikenøtten barnehage: 1 barn over 3 årFrydenhaug SIO barnehage: 2 plasser over 3 årGaustadsnippen: 2 plasser for barn over 3 år og 6 plasser for barn under 3 årMontessori bhg Solsikken, avd Sognestuen: 1 plass for barn over 3 år og 1 plass for barn under 3 år, begge fra novemberNorlandia Gaustadskogen: 2 plasser for barn født i 2021 og 2 plasser for barn over 3 årSkogly SIO barnehage: 3 plasser over 3 årSognsveien barnehage: 1 ledig plass for barn 3–5 årVeslehaugen familiebarnehage: 1 barn over 3 år",
+        "Gaustadsnippen: 2 plasser for barn over 3 år og 6 plasser for barn under 3 år",
+        "Montessori bhg Solsikken, avd Sognestuen: 1 plass for barn over 3 år og 1 plass for barn under 3 år, begge fra november"
+      ]
+    },
     "Søndre Nordstrand": {
       "available_spots": [
         "Brennastubben familiebarnehage AS: 1 ledig plasser for barn under 3 år",
