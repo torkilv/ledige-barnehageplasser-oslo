@@ -1,6 +1,12 @@
 {
-  "lastUpdate": "2026-10-21T11:00:13.439059",
+  "lastUpdate": "2026-10-21T16:00:28.792940",
   "spots": {
+    "Alna": {
+      "available_spots": [
+        "Barneslottet barnehage: 1 plass over 3 år, ledig fra novemberLohøgda barnehage: 1 plass over 3 år, ledig fra oktoberLutvannskollen barnehage: 2 plasser under 3 år, ledig fra novemberPlassen barnehage: 1 plass over 3 år, ledig fra oktoberStubberudlia barnehage: 1 plass over 3 år, ledig fra oktober",
+        "Lutvannskollen barnehage: 2 plasser under 3 år, ledig fra november"
+      ]
+    },
     "Søndre Nordstrand": {
       "available_spots": [
         "Bjørnebo barnehage: 3 ledige plasser over 3 år og 6 ledige plasser under 3 år",
