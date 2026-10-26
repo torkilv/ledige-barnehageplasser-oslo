@@ -1,11 +1,27 @@
 {
-  "lastUpdate": "2026-10-26T12:05:31.979045",
+  "lastUpdate": "2026-10-26T18:45:36.429323",
   "spots": {
     "Alna": {
       "available_spots": [
         "Barneslottet barnehage: 1 plass over 3 år, ledig fra novemberFurustien barnehage: 2 plasser under 3 år, ledig fra novemberLohøgda barnehage: 1 plass over 3 år, ledig fra oktoberLutvannskollen barnehage: 2 plasser under 3 år, ledig fra novemberPlassen barnehage: 1 plass over 3 år, ledig fra oktoberStubberudlia barnehage: 1 plass over 3 år, ledig fra oktober",
         "Furustien barnehage: 2 plasser under 3 år, ledig fra november",
         "Lutvannskollen barnehage: 2 plasser under 3 år, ledig fra november"
+      ]
+    },
+    "Grorud": {
+      "available_spots": [
+        "Ammerudenga barnehage: 7 plasser over 3 årAmmerudgrenda barnehage: 1 plass over 3 årAmmerudlia barnehage: 2 plasser over 3 årRavnkollen barnehage: 4 plasser under 3 år, 5 plasser over 3 årTjernveien barnehage: 3 plasser under 3 år, 2 plasser over 3 år",
+        "Ravnkollen barnehage: 4 plasser under 3 år, 5 plasser over 3 år",
+        "Tjernveien barnehage: 3 plasser under 3 år, 2 plasser over 3 år"
+      ]
+    },
+    "Stovner": {
+      "available_spots": [
+        "Fossumenga og Fossumhagen barnehage: 4 plasser over 3 årKaren Aasumb barnehage: 7 plasser over 3 årStovnerfaret barnehage: 4 plasser over 3 årVestliberget barnehage: 1 ledig plass under 3 årVestlikollen barnehage: 4 plasser under 3 år, 1 plass over 3 år.Vestliskogen barnehage: 4 plasser under 3 år, 6 plasser over 3 årVestlisvingen barnehage: 2 plasser under 3 år",
+        "Vestliberget barnehage: 1 ledig plass under 3 år",
+        "Vestlikollen barnehage: 4 plasser under 3 år, 1 plass over 3 år.",
+        "Vestliskogen barnehage: 4 plasser under 3 år, 6 plasser over 3 år",
+        "Vestlisvingen barnehage: 2 plasser under 3 år"
       ]
     },
     "Søndre Nordstrand": {
