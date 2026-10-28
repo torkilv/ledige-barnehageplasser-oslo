@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-28T08:02:20.265327",
+  "lastUpdate": "2026-10-28T15:16:15.991433",
   "spots": {
     "Alna": {
       "available_spots": [
@@ -37,6 +37,12 @@
         "Taranrød barnehage: 2 ledige plasser over 3 år og 3ledige plasser under 3 år",
         "Åsbråten barnehage: 4 ledige plasser over 3 år og 5 ledige plasser under 3 år",
         "Åstun barnehage: 2 ledige plasser over 3 år og 8 ledige plasser under 3 år"
+      ]
+    },
+    "Østensjø": {
+      "available_spots": [
+        "Bøler menighetsbarnehage: 1 småbarnsplass ledig fra 1. desember",
+        "Bøler menighetsbarnehage: 1 småbarnsplass ledig fra 1. desemberGartnerboligen barnehage: 2 plasser over 3 år, ledig fra oktober/november"
       ]
     }
   }
